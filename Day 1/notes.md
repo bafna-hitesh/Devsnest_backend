@@ -57,12 +57,15 @@ HEXISTS
 <h1>postgres:-</h1>
 postgres is database,
 postgres work on user,
-<ol>
--psqual -u == To enter in postgress ( we have to provide user name and password )
--CREATE USER WITH PASSWORD '123456'; ==	to create user name and password
--CREATE DATABASE devs == To create database
--\l	List all available databases
-</ol>
+    
+- psqual -u == To enter in postgress ( we have to provide user name and password )
+    
+- CREATE USER WITH PASSWORD '123456'; ==	to create user name and password
+    
+- CREATE DATABASE devs == To create database
+    
+- \l == List all available databases
+   
 
 
 
