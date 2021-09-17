@@ -53,7 +53,7 @@ HGETALL key1
 HDEL 
 HEXISTS
 </ol>
----------------------------------------------------------------------------
+
 <h1>postgres:-</h1>
 <ul>
 postgres is database,
