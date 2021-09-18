@@ -58,13 +58,13 @@ HEXISTS
 postgres is database,
 postgres work on user,
     
-- psqual -u == To enter in postgress ( we have to provide user name and password )
+- psql -u ==> To enter in postgress ( we have to provide user name and password )
     
-- CREATE USER WITH PASSWORD '123456'; ==	to create user name and password
+- CREATE USER WITH PASSWORD '123456'; ==>	to create user name and password
     
-- CREATE DATABASE devs == To create database
+- CREATE DATABASE devs ==> To create database
     
-- \l == List all available databases
+- \l ==> List all available databases
    
 
 
