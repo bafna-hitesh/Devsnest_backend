@@ -54,6 +54,7 @@ SELECT * FROM COMPANY WHERE AGE NOT IN (25,27);
 ```
 
 <h1>Update:-</h1>
+
 ```
 UPDATE COMPANY SET SALARY =15000 WHERE ID=3;
 ```
@@ -61,6 +62,7 @@ UPDATE COMPANY SET SALARY =15000 WHERE ID=3;
 UPDATE COMPANY SET ADDRESS="Texax", SALARY =15000 WHERE ID=3;
 ```
 - For delete row:-
+
 ```
 DELETE FROM COMPANY WHERE ID=2;
 ```
@@ -68,6 +70,7 @@ DELETE FROM COMPANY WHERE ID=2;
 # foreign key
 Is a connector that connect one table to another table.
 - For set foreign key:-
+
 ```
 CONSTRAINT foreign_key_customer
 FOREIGN KEY(customer_id)
