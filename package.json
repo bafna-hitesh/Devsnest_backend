@@ -1,0 +1,19 @@
+{
+  "name": "devsnet_backend",
+  "version": "1.0.0",
+  "description": "1. DAY 1 -  INSTALLATION OF REDIS, POSTGRES AND BASIC\r 2. Day 2 -  Redis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hiteshjain27/devsnet_backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hiteshjain27/devsnet_backend/issues"
+  },
+  "homepage": "https://github.com/hiteshjain27/devsnet_backend#readme"
+}
