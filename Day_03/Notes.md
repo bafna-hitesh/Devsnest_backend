@@ -11,7 +11,7 @@ PUBLISH devsnest hello
 ```
 2. Subscribe
 ```
-SUBCRIBE <channel_name>
+SUBSCRIBE <channel_name>
 
 ("MESSAGE" , "DEVSENEST","HELLO")
 
