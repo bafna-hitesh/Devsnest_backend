@@ -9,9 +9,9 @@
 PUBLISH < channel name >
 PUBLISH devsnest hello
 ```
-2. Subscriber
+2. Subscribe
 ```
-SUBCRIBER <channel_name>
+SUBCRIBE <channel_name>
 
 ("MESSAGE" , "DEVSENEST","HELLO")
 
